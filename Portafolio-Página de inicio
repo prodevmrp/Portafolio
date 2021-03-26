@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Portafolio Mariangelica Rodríguez Pérez</title>
+    </head>
+    <body>
+        <div id=navBar>
+            <img src="https://lh3.googleusercontent.com/ogw/ADGmqu90MvWEx5R2N0KAJTtmHFFdG_sh7LCVtgOvzzZljA=s83-c-mo" alt="Foto Mariangelica Rodríguez" id="imgProfile">
+                <a href="http://127.0.0.1:5500/index.html"><img id="masDeMi" title="Sobre mí" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-contact-128.png"></a>
+                <a href="http://127.0.0.1:5501/index.html"><img id="LengProg" title="Lenguajes y Herramientas de programación" src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/user_persona_user_profile_user_persona_user_experience_person_user_account-128.png" ></a>
+                <a href=""><img id="proyectos" title="Proyectos" src="https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_work_48px-128.png"></a>
+                <a href=""><img id="contact" title="Contacto" src="https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/message-128.png"></a>
+        </div>
+        <h1>Bienvenido(a)!!!</h1>
+        <h2>espero esta página sea de tu agrado</h2>
+        <h3>Me presento</h3>
+        <p>Mi nombre es <strong>Mariangelica Rodríguez Pérez</strong>, estoy en continuo estudio y aprendizaje de programación (ley de vida), me inicié en esta carrera aprendiendo <strong>"<a href="">Html (Html5)</a>"</strong>, la estructura y utilidades de las etiquetas Html, incluidas las etiquetas semánticas que mejoran la accesibilidad de personas con alguna discapacidad</p>
+        <p>Luego aprendí <strong><a href="">CSS</a></strong> una herramienta de estilo en cascada ideal para mejorar la presentación del contenido de cualquier página, agregando elementos del diseño de interfaces como: colores, bordes, márgenes, formas, fuentes y demás detalles que mejoran mucho la experiencia de usuario</p>
+        <p>Así mismo he aprendido <strong><a href="">Bootstrap</a></strong>, que permite agregar los estilos de diseño de una forma mas fácil en comparación con CSS puro, empleando div`s y clases. Para agregar a una página estática funcionalidades he aprendido "<strong><a href="">JavaScript</a></strong>" que es uno de los lenguajes más empleados en la programación web, permite que las paginas sean dinámicas y nos ayudan a crear infinidad de interacciones.</p>
+        <h3>Cualidades</h3>
+        <ul>
+            <li>Cumplo con mis responsabilidades y procuro hacerlo lo mejor posible.</li>
+            <li>Me comprometo con los proyectos y trabajos que me son encargados</li>
+            <li>Disfruto ayudar y colaborar con los demás, por un objetivo común o independientemente de ello.</li>
+            <li>Hago mi mayor esfuerzo en hacer las cosas bien.</li>
+        </ul>
+        <h3>Fallos o puntos a mejorar</h3>
+        <ul>
+            <li>Suelo concentrarme en hacer una tarea y hay momentos en que no sé cuando debo seguir a otra.</li>
+            <li>Me cuesta pedir ayuda, aunque me gusta trabajar en equipo, intento molestar lo menor posible.</li>
+        </ul>
+        <h3>¿qué me motivó a crear esta página?</h3>
+        <ol>
+            <li><strong>Practicar lo que he aprendido:</strong> Muchas son las personas que afirman que "se aprende a programar programando" y estoy completamente de acuerdo, ya que mediante prueba y error se aprende de forma más eficiente y duradera la base de la programación y la resolución de problemas, practicar es esencial, y esta me pareció una manera divertida y útil de hacerlo</li>
+            <br>
+            <li><strong>Demostrar mi capacidad para la programación:</strong> No es igual afirmar que puedo programar a poder mostrar este proyecto terminado y que se pueda juzgar realmente, además de ser super gratificante terminar un proyecto.</li>
+            <br>
+            <li><strong>Tener un portafolio:</strong> Tenía muchas ganas de hacer mi propio portafolio y poder mejorarlo con el tiempo y ver la evolución. Será increíble</li>
+            <br>
+            <li><strong>Divertirme:</strong> haciendo lo que quiero y aprendiendo diferentes formas de hacerlo mientras paso a paso construyo este proyecto.</li>
+        </ol>
+        <footer id="footer">
+            <a href="https://github.com/prodevmrp"><img id="gitHub" title="GitHUb" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-128.png"></a></li>
+            <a href="www.linkedin.com/in/mariangelica-rodríguez-pérez-97594616a"><img id="linkedIn" title="linkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"></a></li>
+        </footer>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>
